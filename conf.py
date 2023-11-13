@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Micro:bit Starter'
+project = 'Micro:bit Starter Kit'
 copyright = 'keyestudio , WiKi'
 author = 'keyestudio WiKi'
 
